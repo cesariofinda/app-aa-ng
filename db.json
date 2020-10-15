@@ -90,7 +90,7 @@
   "estrangeiro": [
     {
     "NumPassaporte": "120202AO2020",
-    "Nome" "Júlia Leite",
+    "Nome" :"Júlia Leite",
     "Sexo" : "Feminino",
     "PaisId": "BR",
     "FunçaoId": 1,
@@ -108,7 +108,7 @@
     },
     {
      "NumPassaporte": "12BR2020",
-    "Nome" "Cláudia Sardinha",
+    "Nome" :"Cláudia Sardinha",
     "Sexo" : "Feminino",
     "PaisId": "BR",
     "FunçaoId": 1,
@@ -127,9 +127,9 @@
     },
     {
      "NumPassaporte": "12ABR020",
-    "Nome" "Júlia Leite",
-    "Sexo" : "Feminino",
-    "PaisId": "BR",
+    "Nome" :"Júlio André",
+    "Sexo" : "Masculino",
+    "PaisId": "PT",
     "FunçaoId": 1,
     "Especialidade": "Gestão",
     "HabilitaçaoId": 3, 
