@@ -88,65 +88,7 @@
     }
   ],
   
-  "estrangeiro": [
-    {
-      "Nome": "Bartolomeu António",
-      "Sexo": "Masculino",
-      "NumPassaporte": "55232",
-      "PaisId": "BR",
-      "FuncaoId": 2,
-      "HabilitaçaoId": 2,
-      "Especialidade": "111",
-      "CategoriaId": 2,
-      "AreaFormacao": "1111",
-      "Departamento": "1111",
-      "GrupoOcupacional": "11111",
-      "DataNascimento": "10/14/2020",
-      "DataInicioContrato": "10/21/2020",
-      "DataFimContrato": "11/6/2020",
-      "QualificacoesProfissionais": "111",
-      "TipoVistoId":"Trabalho"
-      "id": 1
-    },
-    {
-      "Nome": "Berta António",
-      "Sexo": "Feminino",
-      "NumPassaporte": "55232",
-      "PaisId": "BR",
-      "FuncaoId": 2,
-      "HabilitaçaoId": 2,
-      "Especialidade": "111",
-      "CategoriaId": 2,
-      "AreaFormacao": "1111",
-      "Departamento": "1111",
-      "GrupoOcupacional": "11111",
-      "DataNascimento": "10/14/2020",
-      "DataInicioContrato": "10/21/2020",
-      "DataFimContrato": "11/6/2020",
-      "QualificacoesProfissionais": "111",
-      "TipoVistoId":"Trabalho"
-      "id": 3
-    },
-    {
-     "Nome": "Bartolomeu António",
-      "Sexo": "Masculino",
-      "NumPassaporte": "55232",
-      "PaisId": "BR",
-      "FuncaoId": 2,
-      "HabilitaçaoId": 2,
-      "Especialidade": "111",
-      "CategoriaId": 2,
-      "AreaFormacao": "1111",
-      "Departamento": "1111",
-      "GrupoOcupacional": "11111",
-      "DataNascimento": "10/14/2020",
-      "DataInicioContrato": "10/21/2020",
-      "DataFimContrato": "11/6/2020",
-      "QualificacoesProfissionais": "111",
-      "TipoVistoId":"Trabalho"
-      "id": 4
-    }
-  ],
+  
   
   "pais": [
     {
