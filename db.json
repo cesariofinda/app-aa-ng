@@ -125,8 +125,8 @@
       "DataInicioContrato": "10/21/2020",
       "DataFimContrato": "11/6/2020",
       "QualificacoesProfissionais": "111",
-      "TipoVistoId":"Trabalho"
-      "id": 1
+      "TipoVistoId":"Trabalho",
+      "id":1
     },
     {
       "Nome": "Berta António",
@@ -144,8 +144,8 @@
       "DataInicioContrato": "10/21/2020",
       "DataFimContrato": "11/6/2020",
       "QualificacoesProfissionais": "111",
-      "TipoVistoId":"Trabalho"
-      "id": 3
+      "TipoVistoId":"Trabalho",
+      "id":3
     },
     {
      "Nome": "Bartolomeu António",
@@ -163,8 +163,8 @@
       "DataInicioContrato": "10/21/2020",
       "DataFimContrato": "11/6/2020",
       "QualificacoesProfissionais": "111",
-      "TipoVistoId":"Trabalho"
-      "id": 4
+      "TipoVistoId":"Trabalho",
+      "id":4
     }
   ],
   "Habilitacao": [
