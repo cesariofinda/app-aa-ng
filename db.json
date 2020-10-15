@@ -87,33 +87,7 @@
       "id": 5
     }
   ],
-  "estrangeiro": [
-    
-    
-    {
-      "Nome": "Garcia Ndongala",
-      "Sexo": "Masculino",
-      "NumDocIdentificacao": "5523512",
-      "PaisId": "AO",
-      "FuncaoId": 2,
-      "HabilitaçaoId": 3,
-      "Especialidade": "aaa",
-      "CategoriaId": 3,
-      "AreaFormacao": "aa",
-      "Departamento": "aa",
-      "TipoContrato": "aaa",
-      "GrupoOcupacional": "aa",
-      "DataNascimento": "9/29/2020",
-      "NumContrato": "aa",
-      "EmpesaContratante": "aa",
-      "DataInicioContrato": "11/5/2020",
-      "DataFimContrato": "11/7/2020",
-      "QualificacoesProfissionais": "Economia",
-      "Id": 9,
-      "id": 5
-    }
-   
-  ],
+  
   "pais": [
     {
       "id": "AO",
